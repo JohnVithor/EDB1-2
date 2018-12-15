@@ -1,0 +1,8 @@
+build/*
+lib/*
+bin/*
+doc/*
+testes/*
+gmon.out
+tempos/*
+Gráficos/.ipynb_checkpoints/Gráficos da Análise Empírica (Vector)-checkpoint.ipynb
